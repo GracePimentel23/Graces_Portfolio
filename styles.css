@@ -148,3 +148,10 @@ nav ul li a:hover {
     font-size: 0.9rem;
     line-height: 1.4;
 }
+
+.experience-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px; 
+    color: #090f62;
+}
+
